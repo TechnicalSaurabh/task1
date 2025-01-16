@@ -14,7 +14,7 @@ To run tests, run the following command
 
 1) Clone the project :
 
-  git clone https://link-to-project
+  git clone https://github.com/TechnicalSaurabh/task1.git
 
 
 2) Install dependencies :
